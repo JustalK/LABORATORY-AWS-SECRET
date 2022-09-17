@@ -170,8 +170,6 @@ $ nx serve api
 
 For testing the app, use Postman.
 
-![./documentation/10.png](./documentation/10.png)
-
 ## System
 
 Ubuntu Version: Ubuntu 20.04.1 LTS
